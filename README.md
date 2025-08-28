@@ -15,7 +15,26 @@ Runs everything in Jupyter Notebook.
 ⚙️ Technologies Used 
 
 Built with Python 3.x using NumPy.
-Pandas for data handling 
+Pandas for data handling.
 Scikit-learn for ML, Matplotlib/Seaborn for visualization.
 Joblib for saving models and to load it later to make predictions without re-running the whole notebook.
+
+ 💻 Installation 
+
+Clone the repository: git clone https://github.com/satyasairaj/Diseaseprediction.git
+cd Diseaseprediction 
+
+Create a virtual environment: python -m venv venv
+source venv/bin/activate    # On Linux/Mac
+venv\Scripts\activate       # On Windows
+
+Install dependencies: pip install -r requirements.txt
+
+
+
+
+
+
+
+
 
