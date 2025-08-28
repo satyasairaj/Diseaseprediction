@@ -6,16 +6,16 @@ This project uses machine learning libraries and it uses machine learning librar
 
 🚀 Features
 
-● Clean and prepare health-related datasets.
-● Train machine learning models for disease prediction.
-● Evaluate with accuracy and metrics.
-● Export trained model for reuse.
-● Run everything in Jupyter Notebook.
+Clean and prepare health-related datasets.
+Train machine learning models for disease prediction.
+Evaluate with accuracy and metrics.
+Export trained model for reuse.
+Run everything in Jupyter Notebook.
 
 ⚙️ Technologies Used 
 
-● Built with Python 3.x using NumPy
-● Pandas for data handling 
-● Scikit-learn for ML, Matplotlib/Seaborn for visualization.
-● Joblib for saving models and to load it later to make predictions without re-running the whole notebook.
+Built with Python 3.x using NumPy.
+Pandas for data handling 
+Scikit-learn for ML, Matplotlib/Seaborn for visualization.
+Joblib for saving models and to load it later to make predictions without re-running the whole notebook.
 
