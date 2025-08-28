@@ -24,11 +24,33 @@ Joblib for saving models and to load it later to make predictions without re-run
 Clone the repository: git clone https://github.com/satyasairaj/Diseaseprediction.git
 cd Diseaseprediction 
 
-Create a virtual environment: python -m venv venv
+Create a virtual environment (recommended): python -m venv venv
 source venv/bin/activate    # On Linux/Mac
 venv\Scripts\activate       # On Windows
 
 Install dependencies: pip install -r requirements.txt
+
+▶️ Usage 
+
+Open Colab Notebook: Run the Disease_Detector.ipynb file step by step.
+
+Train the model and generate predictions.
+
+(Optional) Use the saved model (.pkl file) for deployment in other applications.
+
+📊 Workflow
+
+Load & preprocess data. Train ML model (e.g., Random Forest, Logistic Regression). Evaluate performance (accuracy, confusion matrix). Save model for reuse.
+
+ 🔮Future Improvements
+
+Build a Streamlit Web App for user-friendly interaction . Expand dataset to more diseases. Try Deep Learning for better accuracy. Deploy on cloud platforms.
+
+📜 Author 
+Satyasairaj Junjuru 
+Linkedin: 
+Email: satyasairajjunjuru@gmail.com
+
 
 
 
