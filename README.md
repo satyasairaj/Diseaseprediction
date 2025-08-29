@@ -19,12 +19,14 @@ Pandas for data handling.
 Scikit-learn for ML, Matplotlib/Seaborn for visualization.
 Joblib for saving models and to load it later to make predictions without re-running the whole notebook.
 
- 💻 Installation 
+📂 Project Structure Disease_Detector/ │── Disease_Detector.ipynb # Main Jupyter Notebook │── requirements.txt # List of dependencies │── README.md # Project documentation │── models/ # Saved ML models │── data/ # Dataset (if available)
+
+💻 Installation 
 
 Clone the repository: git clone https://github.com/satyasairaj/Diseaseprediction.git
 cd Diseaseprediction 
 
-Create a virtual environment (recommended): python -m venv venv
+Create a virtual environment (recommended):python -m venv venv
 source venv/bin/activate    # On Linux/Mac
 venv\Scripts\activate       # On Windows
 
@@ -49,7 +51,6 @@ Build a Streamlit Web App for user-friendly interaction . Expand dataset to more
 📜 Author 
 
 Satyasairaj Junjuru 
-Linkedin: 
 Email: satyasairajjunjuru@gmail.com
 
 
