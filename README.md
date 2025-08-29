@@ -47,6 +47,7 @@ Load & preprocess data. Train ML model (e.g., Random Forest, Logistic Regression
 Build a Streamlit Web App for user-friendly interaction . Expand dataset to more diseases. Try Deep Learning for better accuracy. Deploy on cloud platforms.
 
 📜 Author 
+
 Satyasairaj Junjuru 
 Linkedin: 
 Email: satyasairajjunjuru@gmail.com
